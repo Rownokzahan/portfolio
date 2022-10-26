@@ -1,0 +1,138 @@
+.navbar{
+    background-color: #b775ed;
+}
+
+.welcome-sect{
+    background-color: #e4d0f4;
+    padding: 110px 150px;
+    padding: 8% 10%;
+    margin-bottom: 40px;
+}
+
+a.navbar-brand{
+    color: rgb(88, 8, 129);
+    font-size: 30px;
+}
+a.nav-link{
+    font-size: 20px;
+    color: rgb(36, 7, 95);
+    font-weight: 200px;
+    margin-left: 50px;
+}
+
+.col h1{
+    font-size: 45px;
+}
+
+div.description p{
+    color: rgb(23, 6, 55);
+    font-size: 30px;
+    font-weight: 400;
+}
+
+button.btn{
+    margin-top: 30px;
+    margin-right: 40px;
+    background-color: #6c3699;
+    color: white;
+    font-size: 18px;
+}
+button.btn:hover{
+    background-color: rgb(23, 6, 55);
+    color: white;
+}
+
+button.btn a,h4 a{
+    text-decoration: none;
+    color: white;
+}
+
+#words{
+    border-right: 3px solid black;
+}
+.col-lg-8{
+    padding-bottom: 40px;
+}
+.banner-img{
+    display: block;
+    height: 400px;
+    width: 400px;
+    border-radius: 60%;
+    background-color: white;
+}
+
+.education{
+    background-color: #6c3699;
+    background-image: linear-gradient(to right, #6d438f,#b775ed);
+    padding: 80px; 
+    padding-bottom: 150px;
+    margin-bottom: 40px;
+}
+.card{
+    width: 60%;
+    padding: 20px;
+    color: rgb(23, 6, 55);
+    box-shadow: 0px 0px 4px 2px blueviolet;
+}
+
+.card p{
+    font-size: 22px;
+}
+
+section .sect-title{
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.skills{
+    background-image: linear-gradient(to right, rgb(96, 67, 108),rgb(110, 78, 124));
+    padding: 60px 80px; 
+    padding-bottom: 150px;
+    margin-bottom: 40px;
+}
+
+.bottom-line{
+    margin: auto;
+    width: 300px;
+    border-top: 6px double white; 
+} 
+
+.skills .row{
+    width: 60%;
+    padding: 2% 6%;
+    margin: auto;
+    color: rgb(23, 6, 55);
+    background-color: #fff !important;
+    box-shadow: 0px 0px 4px 2px blueviolet;
+    border-radius: 13px;
+
+}
+.col img{
+    display: block;
+    height: 80px;
+    margin: auto;
+}
+
+.contact{
+    /* background-image: linear-gradient(to right, rgb(57, 41, 75),rgb(44, 4, 57)); */
+    background-color: rgb(32, 28, 48);
+    padding: 30px; 
+}
+
+.footer-title{
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+}
+
+h4 i{
+    display: inline-block;
+    padding: 10px 12px;
+    margin: 16px;
+    box-shadow: 0px 0px 3px 1px rgb(106, 0, 218) inset;
+    border-radius: 25%;
+}
+
+#tell-detail,#mail-detail{
+    display: none;
+}
